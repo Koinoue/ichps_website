@@ -1,0 +1,13 @@
+name: "koinoue"
+output_dir: "."
+navbar:
+  title: "Kosuke Inoue"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Publication"
+      href: report.html
+  right:
+    - text: "Github"
+      icon: fa-github 
+      href: https://github.com/
